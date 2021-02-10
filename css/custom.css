@@ -1,0 +1,83 @@
+.go-btn {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #fcd307;
+    color: white;
+    padding: 16px;
+    transition: none;
+}
+
+.go-btn:active,
+.go-btn:hover,
+.go-btn.seatide a:active,
+.go-btn.seatide a:hover {
+    transition: none;
+    color: white !important;
+}
+
+.go-btn.seatide {
+    margin-bottom: 32px;
+    display: block;
+    align-items: center;
+    transition: none;
+}
+
+#section-counter > div > div.row.justify-content-center.mb-5 {
+    margin-bottom: 32px !important;
+}
+
+#section-counter > div > div.row.justify-content-center.mb-5.pb-3 > div > p {
+    margin-bottom: 0;
+}
+
+#section-counter > div > div.row.justify-content-center.pb-3 {
+    padding-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .ftco-navbar-light .navbar-brand {
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+}
+
+.partner-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.partner-container img {
+    padding: 8px;
+    width: 120px;
+}
+
+#section-counter > div > div.row.justify-content-center.mb-5.pb-3 > div > h2 {
+    color: white;
+}
+
+#section-counter > div > div.row.justify-content-center.mb-5.pb-3 > div > p {
+    color: #eee;
+}
+
+.image-shown {
+    position: relative;
+    width: 100%;
+    width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+}
+
+.footer-logo {
+    margin-bottom: 16px;
+}
+
+.hero-wrap, .hero-wrap2 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

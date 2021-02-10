@@ -1,0 +1,85 @@
+{
+    "index": {
+        "title": "SoTap"
+    },
+    "about": {
+        "title": "关于我们",
+        "hero": {
+            "title": "关于本游戏兴趣社区",
+            "desc": "在加入本服务器前，请先了解我们的社区",
+            "bg": "https://mcsunrise.oss-cn-qingdao.aliyuncs.com/about.png"
+        }
+    },
+    "rules": {
+        "title": "社区及服务器规则",
+        "hero": {
+            "title": "社区及服务器规则",
+            "desc": "这里是 SoTap 社区的游戏服务器规则 请在加入游戏前认真阅读本规则，以免出现损失",
+            "bg": "https://mcsunrise.oss-cn-qingdao.aliyuncs.com/sunrise1.png"
+        }
+    },
+    "features": {
+        "title": "游戏特色",
+        "hero": {
+            "title": "服务器「有趣设定」的列表 & 详细介绍",
+            "desc": "<strong>注意</strong> 此处所展示的内容仅适用于 SoTap 社区 Minecraft 服务器",
+            "bg": "https://sotap.oss-cn-qingdao.aliyuncs.com/0.png"
+        }
+    },
+    "data": {
+        "title": "游戏数据下载",
+        "hero": {
+            "title": "游戏数据下载",
+            "desc": "在此，社区成员可以下载以往的游戏数据",
+            "bg": "https://mcsunrise.oss-cn-qingdao.aliyuncs.com/data.jpeg"
+        }
+    },
+    "epic": {
+        "title": "主题子服：史诗地形",
+        "hero": {
+            "title": "主题子服：史诗地形<br/>全新且更加真实的主世界地貌环境",
+            "desc": "用宏伟的地貌创建一个你从未想象过的全新史诗世界",
+            "bg": "https://mcsunrise.oss-cn-qingdao.aliyuncs.com/sunrise2.png"
+        }
+    },
+    "heaven": {
+        "title": "全新的独立世界：天堂！",
+        "hero": {
+            "title": "全新的独立世界：天堂！<br/>天穹之上的奇幻旅程",
+            "desc": "这是一个全新的独立空岛世界，在这里你会找到你生命的赞歌",
+            "bg": "https://mcsunrise.oss-cn-qingdao.aliyuncs.com/skyland4.png"
+        }
+    },
+    "itemadder": {
+        "title": "原版物品扩展",
+        "hero": {
+            "title": "原版物品扩展：<br/>超越原版的方方面面",
+            "desc": "那些你从未看到过的所见所闻，都真实的存在着",
+            "bg": "https://mcsunrise.oss-cn-qingdao.aliyuncs.com/furniture.jpg"
+        }
+    },
+    "pet": {
+        "title": "史诗宠物",
+        "hero": {
+            "title": "史诗宠物：为你而来",
+            "desc": "它的存在，就是史诗的存在",
+            "bg": "https://sotap.oss-cn-qingdao.aliyuncs.com/bgmpet.jpg"
+        }
+    },
+    "donators": {
+        "title": "捐助者名单",
+        "hero": {
+            "title": "捐助者名单",
+            "desc": "那些支持过 SoTap 的玩家们",
+            "bg": "https://i.loli.net/2020/02/21/69ehFfRdSPuYkGi.png"
+        }
+    },
+    "start": {
+        "title": "开始游戏",
+        "hero": {
+            "title": "开始游戏",
+            "desc": "阅读本页面，了解 SoTap 服务器的正确打开方式",
+            "bg": "https://sotap.oss-cn-qingdao.aliyuncs.com/start.png"
+        }
+    }
+}
