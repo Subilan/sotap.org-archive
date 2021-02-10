@@ -1,6 +1,6 @@
 # sotap.org Archive
 
-**sotap.org Archive** 是即将开放的公共代码库，预计于 2021 年 2 月 10 日正式完成开源工作。
+**sotap.org Archive** 是 SoTap 于 2021 年 2 月 11 日以前所使用的网站源代码。
 
 ## 这是什么？
 
